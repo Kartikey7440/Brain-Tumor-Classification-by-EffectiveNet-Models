@@ -194,12 +194,3 @@ pip install -r requirements.txt
 **Kartikey Soni**  
 B.Tech Artificial Intelligence  
 MITS Gwalior
-
----
-
-# 🙏 Acknowledgement
-
-Special thanks to:
-
-- **Ms. Geetika Sharma Hazra** for guidance and supervision
-- Centre for Artificial Intelligence, MITS Gwalior
