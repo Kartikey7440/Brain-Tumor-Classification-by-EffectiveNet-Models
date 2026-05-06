@@ -132,6 +132,20 @@ Grad-CAM is used to visualize the regions influencing model predictions.
 
 ---
 
+# Results:
+
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/e2b08a8b-cbc5-4815-acdc-d6d314c922f2" />
+<img width="481" height="482" alt="download" src="https://github.com/user-attachments/assets/513d2491-ea58-4c96-8c62-2fa2a8652b24" />
+
+<img width="581" height="455" alt="download" src="https://github.com/user-attachments/assets/a286d867-76dd-4fe8-bd8f-92dfe5ff5bbb" />
+
+<img width="572" height="455" alt="download" src="https://github.com/user-attachments/assets/82f3bba6-f030-418b-b221-12f19d420499" />
+
+
+
+---
+
+
 # 🛠️ Technologies Used
 
 - Python
@@ -144,6 +158,7 @@ Grad-CAM is used to visualize the regions influencing model predictions.
 - EfficientNet
 
 ---
+
 
 # ⚙️ Installation
 
